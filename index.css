@@ -1,0 +1,59 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 1px black;
+    padding: 5px;
+}
+.identity {
+    
+    display: flex;
+}
+.photo {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin: 10px;
+    padding: 10px;
+}
+.name {
+    margin: 10px;
+    padding: 90px 20px;
+    font-size: 80px;
+}
+
+.nav-items > ul {
+    list-style-type: none;
+    display: flex;
+
+    
+}
+
+.nav-items > ul > li {
+    font-size: 30px;
+    margin: 100px 70px;
+    padding:10px 10px;
+}
+
+.body-container {
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+}
+.pro-photo {
+    width: 800px;
+    height: 500px;
+}
+.pro-details {
+    margin: 10px;
+    padding: 10px;
+}
+.pro-name {
+    padding: 5px 300px;
+    font-size: 50px;
+    margin: 10px 100px;
+}
+.pro-info {
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+}
